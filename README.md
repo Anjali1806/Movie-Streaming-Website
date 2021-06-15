@@ -28,7 +28,11 @@ Well! Take a chill pill. Don't be intimidated by those thoughts. __Apna Theatre 
 
 ## About
 
+<<<<<<< Updated upstream
 ApnaTheatre.com is a place for all movieocohlic's to enjoy. This movie streaming website allows users to watch their favorite movies, tv shows and web series from multiple genres like crime, comedy, drama, kids etc. 
+=======
+ApnaTheatre.com is a place for all movieocohlic's for entertainment. This movie streaming website allows users to watch their favourite movies,tv shows and web series from multiple genres like crime, comedy, drama, kids etc. 
+>>>>>>> Stashed changes
 
 ## Link to the website
 https://qazimaazarshad.github.io/Movie-Streaming-Website/
